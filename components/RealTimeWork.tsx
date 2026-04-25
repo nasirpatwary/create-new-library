@@ -8,11 +8,11 @@ export default function RealTimeWork() {
         <Image
           width={800}
           height={600}
-          className="w-full lg:h-96 lg:w-1/2 object-cover rounded-2xl"
+          className="lg:h-96 md:w-6/12 lg:w-1/2 object-cover rounded-2xl"
           src={businessTeam}
           alt=""
         />
-        <TeamTrusted />
+          <TeamTrusted />
       </div>
     </>
   );

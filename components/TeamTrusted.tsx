@@ -89,7 +89,7 @@ export function TeamTrusted({
   return (
     <div
       className={cn(
-        "relative flex max-w-md h-64 lg:h-96 w-full flex-col overflow-hidden",
+        "relative flex max-w-md w-full h-64 lg:h-96 flex-col overflow-hidden",
         className
       )}
     >
